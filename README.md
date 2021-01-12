@@ -1,5 +1,4 @@
-# GWR_Violent_Crime_London
-A Study using Geographically Weighted Regression to investigate Locally Varying factors relating to violent crime in London
+# Using Geographically Weighted Regression and Hierachical/Partition Based Clustering to investigate Locally Varying Factors relating to Violent Crime in London
 
 In this repo there is a jupyter notebook and a html version of the notebook. Please download the HTML version for easy viewing of code.
 
