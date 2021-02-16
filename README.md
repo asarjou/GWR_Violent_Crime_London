@@ -1,6 +1,6 @@
 # Using Geographically Weighted Regression and Hierachical/Partition Based Clustering to investigate Locally Varying Factors relating to Violent Crime in London
 
-In this repo there is a jupyter notebook and a html version of the notebook. Please download the HTML version for easy viewing of code.
+In this repo there is a jupyter notebook. Due to the size of the visualisations in this project, you may need to download the jupyter notebook to view the outputs.
 
 This study builds on work carried out by Beecham et al., 2018 on Locally Varying factors that caused the UK to vote to Leave the EU:
 
